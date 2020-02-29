@@ -224,4 +224,104 @@ Scala的整型常量/字面量 默认Int型，声明常量Long须后加L或l
 
 ### 3.相互转换
 
-to.Dou
+1.基本类型-->String类型
+
+~~~java
+String str1 = true + " ";
+String str2 = 5.0 + " ";
+String str3 = 90 + " ";
+~~~
+
+2.String类型-->基本类型
+
+要确保String类型转成有效的数据比如：“123”可转成整数，但“hellocc”不能
+
+~~~java
+s1.toInt
+s1.toFloat
+s1.toDouble
+s1.toByte
+s1.toLong
+s1.toShort
+~~~
+
+# 四、标识符
+
+1.scala中的下划线有特殊用途，不能独立当成变量名来使用
+
+# 五、运算符
+
+Scala中没有++   -- 只能通过+=  -=来实现同样效果
+
+Scala += 有类型提升 和Java不一样
+
+# 六、逻辑控制
+
+scala
+
+~~~scala
+//for(i <- 1 to 5) { }
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    for (i <- -5 to 5) {
+      print(i)
+    }
+  }
+}
+//-5-4-3-2-101234
+~~~
+
+~~~scala
+for(i <- 1 until 5) { }
+//不包含5
+~~~
+
+
+
+java
+
+~~~java
+//for(int i; i< 5;i++){  }
+public class Cc {
+    public static void main(String[] args) {
+        for (int i = -5; i < 5; i++) {
+            System.out.print(i);
+        }
+    }
+}
+//-5-4-3-2-1012345
+~~~
+
+
+
+2.打印,用scala一行for循环实现如下效果
+
+~~~scala
+        *        
+       ***       
+      *****      
+     *******     
+    *********    
+   ***********   
+  *************  
+ *************** 
+*****************
+~~~
+
+~~~scala
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    for (i <- Range(1, 18, 2)) {
+      println(" " * ((18 - i) / 2) + "*" * i + (" " * ((18 - i) / 2)))
+    }
+  }
+}
+~~~
+
+~~~scala
+for(i<-Range(1,18,2);j=(18-i)/2){
+println(" "*j+"*"*i+" "*j)
+}
+~~~
+
+3.scala所有表达式都有返回值
