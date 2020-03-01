@@ -325,3 +325,72 @@ println(" "*j+"*"*i+" "*j)
 ~~~
 
 3.scala所有表达式都有返回值
+
+# 二、函数式编程
+
+Java中方法和函数都可以进行封闭，但是方法必须和类型绑定，函数不须
+
+java:方法不能在main中声明，方法明不能有方法，方法里可有类（局部内部类）
+
+~~~java
+public static void method(String s){}
+~~~
+
+scala：方法可在任意语法中声明，方法里也可以有类，语法灵活
+
+~~~scala
+def test(s:String) : Unit = {
+    print(s)
+}
+调用： test("cc")
+~~~
+
+1.无参、无返回值
+
+~~~
+def test():Unit = {
+println("Test")
+}
+test()
+~~~
+
+2、有参、无返回值
+
+**函数没有重载的概念**
+
+**函数在同一作用域中，不能同名**
+
+~~~scala
+def test1(s:String):Unit = {
+	println(S)
+}
+~~~
+
+3、有参，有返回值
+
+~~~scala
+def test2(s:String):String={
+	return s +"...."
+}
+~~~
+
+~~~scala
+val rtVal:String = test2("cc")
+	print(rtVal)
+~~~
+
+4.无参、无返回值
+
+~~~scala
+def test3():String={
+	return "cc"
+}
+println(test3())
+~~~
+
+**scalak中没有throws关键字，所以函数中如果有异常发送，也不需要在函数声明时抛出异常**
+
+
+
+函数可以赋值给变量、可以作为函数的参数、可以作为函数的返回值
+
