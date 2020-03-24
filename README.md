@@ -128,7 +128,9 @@
 
 # 五.算法
 
-1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
+1. [常见算法](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
+2. [leetCode](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
+3. [企业算法题](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
 
 
 
