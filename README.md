@@ -12,30 +12,26 @@
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
     <tr>
-  <td align="center"><a href="#一.Java">Java</a></td>
-  <td align="center"><a href="#二.Hadoop体系">Hadoop体系</a></td>
-  <td align="center"><a href="#三.Spark">Spark</a></td>
-  <td align="center"><a href="#四.Flink">Flink</a></td>
-  <td align="center"><a href="#五.算法">算法</a></td>
-  <td align="center"><a href="#六.面试">面试</a></td>
-  <td align="center"><a href="#七.其它">其它</a></td>
+  <td align="center"><a href="https://github.com/bigdata2018/BigData#%E4%B8%80java">Java</a></td>
+  <td align="center"><a href="https://github.com/bigdata2018/BigData#%E4%BA%8Chadoop%E4%BD%93%E7%B3%BB">Hadoop体系</a></td>
+  <td align="center"><a href="# 三.Spark">Spark</a></td>
+  <td align="center"><a href="# 四.Flink">Flink</a></td>
+  <td align="center"><a href="# 五.算法">算法</a></td>
+  <td align="center"><a href="# 六.面试">面试</a></td>
+  <td align="center"><a href="# 七.其它">其它</a></td>
 </table>
 
 
 
 <br/>
 
-## :black_nib: 前  言
+# :black_nib: 前  言
 
-1. [Java]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-2. [Hadoop体系]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
-3. [Spark]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-4. [Flink]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-5. [算法]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-6. [面试]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
-7. [其它]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
+1. [大数据学习路线](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据学习路线.md)
+2. [大数据技术栈思维导图](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据技术栈思维导图.md)        
+3. [大数据常用软件安装指南](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据常用软件安装指南.md)
 
-## 一.Java
+# 一.Java
 
 1. [分布式文件存储系统 —— HDFS](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-HDFS.md)
 2. [分布式计算框架 —— MapReduce](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-MapReduce.md)
@@ -46,7 +42,7 @@
 7. [HDFS Java API 的使用](https://github.com/heibaiying/BigData-Notes/blob/master/notes/HDFS-Java-API.md)
 8. [基于 Zookeeper 搭建 Hadoop 高可用集群](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/基于Zookeeper搭建Hadoop高可用集群.md)
 
-## 二.Hadoop体系
+# 二.Hadoop体系
 
 1. [HDFS](https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md#01%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1)
 
@@ -88,7 +84,7 @@
 
     
 
-## 三.Spark
+# 三.Spark
 
 **Spark Core :**
 
@@ -115,7 +111,7 @@
 3. [Spark Streaming 整合 Flume](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Streaming整合Flume.md)
 4. [Spark Streaming 整合 Kafka](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Streaming整合Kafka.md)
 
-## 四.Flink
+# 四.Flink
 
 1. [Storm 和流处理简介](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Storm和流处理简介.md)
 2. [Storm 核心概念详解](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Storm核心概念详解.md)
@@ -130,7 +126,7 @@
 
 
 
-## 五.算法
+# 五.算法
 
 1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
 
