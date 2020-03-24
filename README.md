@@ -132,7 +132,7 @@
 
 ## 五.算法
 
-1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md)
+1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md) 
 
 
 
