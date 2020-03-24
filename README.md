@@ -132,13 +132,13 @@
 
 
 
-## 六.面试
+# 六.面试
 
 1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md)
 
 
 
-## 七.其它
+# 七.其它
 
 1. [大数据应用常用打包方式](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据应用常用打包方式.md)
 
@@ -146,6 +146,6 @@
 
 
 
-## :bookmark_tabs: 后  记
+# :bookmark_tabs: 后  记
 
 [资料分享与开发工具推荐](https://github.com/heibaiying/BigData-Notes/blob/master/notes/资料分享与工具推荐.md)
