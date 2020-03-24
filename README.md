@@ -25,7 +25,7 @@
 
 <br/>
 
-## :black_nib: 前  言
+# :black_nib: 前  言
 
 1. [Java]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
 2. [Hadoop体系]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
@@ -35,7 +35,7 @@
 6. [面试]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
 7. [其它]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
 
-## 一.Java
+# 一.Java
 
 1. [分布式文件存储系统 —— HDFS](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-HDFS.md)
 2. [分布式计算框架 —— MapReduce](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-MapReduce.md)
@@ -46,7 +46,7 @@
 7. [HDFS Java API 的使用](https://github.com/heibaiying/BigData-Notes/blob/master/notes/HDFS-Java-API.md)
 8. [基于 Zookeeper 搭建 Hadoop 高可用集群](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/基于Zookeeper搭建Hadoop高可用集群.md)
 
-## 二.Hadoop体系
+# 二.Hadoop体系
 
 1. [HDFS](https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md#01%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1)
 
