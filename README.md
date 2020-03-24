@@ -27,13 +27,9 @@
 
 # :black_nib: 前  言
 
-1. [Java]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-2. [Hadoop体系]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
-3. [Spark]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-4. [Flink]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-5. [算法]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
-6. [面试]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))        
-7. [其它]([https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md](https://github.com/321cto/Java-for-Algorithms/blob/master/note/算法001.md))
+1. [大数据学习路线](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据学习路线.md)
+2. [大数据技术栈思维导图](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据技术栈思维导图.md)        
+3. [大数据常用软件安装指南](https://github.com/heibaiying/BigData-Notes/blob/master/notes/大数据常用软件安装指南.md)
 
 # 一.Java
 
