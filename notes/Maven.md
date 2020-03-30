@@ -32,7 +32,7 @@ jar包往往不是孤立存在的，很多jar包都需要在其他jar包的支�
 
 举个例子：我们现在有三个工程MakeFriend、HelloFriend、和Hello。MakeFriend依赖HelloFriend，HelloFriend依赖Hello。而Hello依赖log4j.1.2.17.jar，HelloFriend依赖log4j.1.2.14.jar。如下图所示：
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps1.jpg) 
+![img](picture/wps1.jpg) 
 
 那么MakeFriend工程的运行时环境中该导入log4j.1.2.14.jar呢还是log4j.1.2.17.jar呢？
 
