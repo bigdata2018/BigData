@@ -74,7 +74,7 @@ Tips：在这里我们顺便说一下，统一的规范几乎可以说成是程�
 
 ## 二、Maven是什么？
 
-​	![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps4.jpg)
+​	![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps4.jpg)
 
 如果上面的描述能够使你认识到使用Maven是多么的重要，我们下面就来介绍一下Maven是什么。
 
@@ -108,7 +108,7 @@ Make→Ant→Maven→Gradle→其他……
 
 Web工程和其编译结果的目录结构对比见下图：
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps5.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps5.jpg) 
 
 ③实际项目
 
@@ -148,19 +148,19 @@ Web工程和其编译结果的目录结构对比见下图：
 
 让我们来梳理一下托马斯这一天中的工作内容
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps6.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps6.jpg) 
 
 从中我们发现，托马斯的很大一部分时间花在了“编译、打包、部署、测试”这些程式化的工作上面，而真正需要由“人”的智慧实现的分析问题和编码却只占了很少一部分。
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps7.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps7.jpg) 
 
 能否将这些程式化的工作交给机器***\*自动\****完成呢？——当然可以！这就是自动化构建。
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps8.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps8.jpg) 
 
 那么Maven又是如何实现自动化构建的呢？简单的说来就是它可以自动的从构建过程的起点一直执行到终点：
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps9.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps9.jpg) 
 
  
 
@@ -382,7 +382,7 @@ Tips：~表示当前用户的家目录。
 
 1) 设置maven的安装目录及本地仓库
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps10.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps10.jpg) 
 
 Ø Maven home directory：可以指定本地 Maven 的安装目录所在，因为我已经配置了 M2_HOME 系统参数，所以直接这样配置 IntelliJ IDEA 是可以找到的。但是假如你没有配置的话，这里可以选择你的 Maven 安装目录。此外，这里不建议使用IDEA默认的。
 
@@ -392,7 +392,7 @@ Tips：~表示当前用户的家目录。
 
 2) 配置Maven自动导入依赖的jar包
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps11.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps11.jpg) 
 
 Ø Import Maven projects automatically：表示 IntelliJ IDEA 会实时监控项目的 pom.xml 文件，进行项目变动设置，勾选上。
 
@@ -404,17 +404,17 @@ Tips：~表示当前用户的家目录。
 
 6) 右键→new Module→Maven
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps12.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps12.jpg) 
 
 7) 点击Next，配置坐标
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps13.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps13.jpg) 
 
 8) 点击Next，给Module命名
 
 9) 目录结构及说明
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps14.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps14.jpg) 
 
 main目录用于存放主程序。
 
@@ -485,7 +485,7 @@ public class HelloTest {
 
 13) 使用Maven的方式运行Maven工程
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps15.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps15.jpg) 
 
 ### 3.6 Maven打包插件
 
@@ -616,7 +616,7 @@ com/atguigu/maven/Hello/0.0.1-SNAPSHOT/Hello-0.0.1-SNAPSHOT.jar
 
 1) 创建HelloFriend工程
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps16.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps16.jpg) 
 
 2) 在pom.xml配置文件中配置当前工程依赖Hello
 
@@ -774,7 +774,7 @@ public class HelloFriendTest {
 
 各个依赖范围的作用可以概括为下图：
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps17.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps17.jpg) 
 
  
 
@@ -795,11 +795,11 @@ A	B	C	compile	    √
 
 1) 路径最短者优先
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps18.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps18.jpg) 
 
 2) 路径相同时先声明者优先
 
-​			![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps19.jpg)
+​			![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps19.jpg)
 
 这里“声明”的先后顺序指的是dependency标签配置的先后顺序。
 
@@ -917,7 +917,7 @@ OurFriends依赖commons-logging的1.1.1对于MakeFriend来说是间接依赖。
 
 [1] 私服：架设在当前局域网环境下，为当前局域网范围内的所有Maven工程服务。
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps20.png) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps20.png) 
 
 [2]中央仓库：架设在Internet上，为全世界所有Maven工程服务。
 
@@ -1209,19 +1209,19 @@ Maven可以根据各个模块的继承和依赖关系自动选择安装的顺序
 
 2) 点击Project Structure
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps21.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps21.jpg) 
 
 3) 选择对应的Module，添加web目录
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps22.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps22.jpg) 
 
 4) 设置目录名称
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps23.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps23.jpg) 
 
 5) 在web目录下创建index.jsp页面
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml16528\wps24.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/wps24.jpg) 
 
 6) 部署到Tomcat上运行
 
