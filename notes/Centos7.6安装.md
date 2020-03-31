@@ -10,15 +10,15 @@
 
 建议: 先安装，如果安装中提示虚拟化未开启，再进入BIOS设置，如安装一切顺序，则不需要进行任何设置。
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml11692\wps63.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/Centos_wps63%20(1).jpg) 
 
 2) 在VMware中新建虚拟机
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml11692\wps64.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/Centos_wps63%20(2).jpg) 
 
 3) 默认即可,不需要做任何修改，直接下一步
 
- ![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml11692\wps65.jpg)
+ ![img](https://github.com/bigdata2018/BigData/blob/master/picture/Centos_wps63%20(3).jpg)
 
 4) 选择稍后安装操作系统，然后下一步 
 
