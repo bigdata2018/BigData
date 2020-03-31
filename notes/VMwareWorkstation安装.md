@@ -2,7 +2,7 @@
 
 1) 双击运行安装包程序
 
-![img](file:///C:\Users\whj\AppData\Local\Temp\ksohtml12172\wps1.jpg) 
+![img](https://github.com/bigdata2018/BigData/blob/master/picture/VM-wps1.jpg) 
 
 2) 接受许可证协议(关键不接受不让安装啊………)
 
