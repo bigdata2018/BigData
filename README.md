@@ -88,7 +88,7 @@
 
 **Spark 基础 :**
 
-1. [Spark 概念](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md)
+1. [Spark 概念](https://github.com/bigdata2018/BigData/blob/master/notes/Spark%20%E6%A6%82%E5%BF%B5.md)
 2. [Spark 集群搭建](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/Spark开发环境搭建.md)
 3. [Spark入门案例](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_RDD.md)
 
