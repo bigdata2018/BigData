@@ -1,13 +1,9 @@
 # Spark简介
 
-[一、简介](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#一简介)
-[二、特点](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#二特点)
-[三、集群架构](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#三集群架构)
-[四、核心组件](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#四核心组件)
-    [3.1 Spark SQL](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#31-Spark--SQL)
-    [3.2 Spark Streaming](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#32-Spark-Streaming)
-    [3.3 MLlib](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#33-MLlib)
-    [3.4 Graphx](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md#34-Graphx)
+[一、简介](#一简介)
+[二、特点](#二特点)
+[三、集群架构](#三集群架构)
+[四、核心组件](#四核心组件)
 
 
 
@@ -44,7 +40,7 @@ Spark 是一个快速(基于内存), 通用, 可扩展的集群计算引擎
 
 - Spark 实现了一种叫做 RDDs 的 DAG 执行引擎, 其数据缓存在内存中可以进行迭代处理
 
-  ![image-20200413233522075](C:\Users\whj\AppData\Roaming\Typora\typora-user-images\image-20200413233522075.png)
+  ![image-20200413233522075](https://github.com/bigdata2018/BigData/blob/master/picture/image-20200413233522075.png)
 
 #### 易用
 
