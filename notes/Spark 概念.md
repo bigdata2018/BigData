@@ -1,9 +1,7 @@
 # Spark简介
-
-[一、简介](#一简介)
-[二、特点](#二特点)
-[三、集群架构](#三集群架构)
-[四、核心组件](#四核心组件)
+[一、简介](## 一、简介)
+[二、特点](## 二、特点)
+[三、Spark组件](## 三、Spark组件)
 
 
 
@@ -65,18 +63,18 @@ df.where("age > 21")
 
   减少了开发和维护的人力成本以及部署平台的物力成本.
 
-  ![image-20200413233845881](C:\Users\whj\AppData\Roaming\Typora\typora-user-images\image-20200413233845881.png)
+  ![image-20200413233845881](https://github.com/bigdata2018/BigData/blob/master/picture/image-20200413233845881.png)
 
 #### 兼容
 
 - Spark 可以运行在 Hadoop Yarn, Apache Mesos, Kubernets, Spark Standalone等集群中
 - Spark 可以访问 HBase, HDFS, Hive, Cassandra 在内的多种数据库
 
-![image-20200413234000749](C:\Users\whj\AppData\Roaming\Typora\typora-user-images\image-20200413234000749.png)
+![image-20200413234000749](https://github.com/bigdata2018/BigData/blob/master/picture/image-20200413234000749.png)
 
 ## 三、Spark组件
 
-![image-20200413234753573](C:\Users\whj\AppData\Roaming\Typora\typora-user-images\image-20200413234753573.png)
+![image-20200413234753573](https://github.com/bigdata2018/BigData/blob/master/picture/image-20200413234753573.png)
 
 #### Spark-Core 和 弹性分布式数据集(RDDs)
 
