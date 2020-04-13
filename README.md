@@ -86,10 +86,14 @@
 
 # 三、Spark
 
+**Spark 基础 :**
+
+1. [Spark 概念](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md)
+2. [Spark 集群搭建](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/Spark开发环境搭建.md)
+3. [Spark入门案例](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_RDD.md)
+
 **Spark Core :**
 
-1. [Spark 简介](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark简介.md)
-2. [Spark 开发环境搭建](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/Spark开发环境搭建.md)
 3. [弹性式数据集 RDD](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_RDD.md)
 4. [RDD 常用算子详解](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Transformation和Action算子.md)
 5. [Spark 运行模式与作业提交](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark部署模式与作业提交.md)
@@ -110,6 +114,8 @@
 2. [Spark Streaming 基本操作](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Streaming基本操作.md)
 3. [Spark Streaming 整合 Flume](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Streaming整合Flume.md)
 4. [Spark Streaming 整合 Kafka](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Spark_Streaming整合Kafka.md)
+
+**Structured Streaming ：**
 
 # 四.Flink
 
