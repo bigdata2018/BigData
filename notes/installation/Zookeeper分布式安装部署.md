@@ -7,8 +7,6 @@
 </nav>
 
 
-
-
 ### 一、前置条件
 
 Hadoop本地运行模式的运行依赖 JDK，Hadoop需要预先安装，安装步骤见：
@@ -146,7 +144,7 @@ Hadoop本地运行模式的运行依赖 JDK，Hadoop需要预先安装，安装�
 
    
 
-### 二、配置修改
+### 三、配置修改
 
 **1.将/opt/module/zookeeper-3.5.7/conf这个路径下的zoo_sample.cfg修改为zoo.cfg**
 
@@ -170,7 +168,7 @@ dataDir=/opt/module/zookeeper-3.5.7/zkData
 
 
 
-### 三、操作Zookeeper
+### 四、操作Zookeeper
 
 **1.启动Zookeeper**
 
