@@ -4,7 +4,7 @@
 
 <table>
     <tr align="center">
-      <th><img width="60px"  src="picture/002.jpg"></th>
+    
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
@@ -12,7 +12,6 @@
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
     <tr>
-  <td align="center"><a href="https://github.com/bigdata2018/BigData#%E4%B8%80java">Java</a></td>
   <td align="center"><a href="https://github.com/bigdata2018/BigData#%E4%BA%8Chadoop%E4%BD%93%E7%B3%BB">Hadoop体系</a></td>
   <td align="center"><a href="https://github.com/bigdata2018/BigData/blob/master/README.md#%E4%B8%89spark">Spark</a></td>
   <td align="center"><a href="# 四.Flink">Flink</a></td>
