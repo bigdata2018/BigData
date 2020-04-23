@@ -4,7 +4,6 @@
 
 <table>
     <tr align="center">
-    
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
       <th><img width="60px" src="picture/002.jpg"></th>
