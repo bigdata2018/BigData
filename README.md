@@ -27,7 +27,7 @@
 # :black_nib: 前  言
 
 1. [大数据学习路线](#)    
-2. [大数据常用软件安装环境搭建指南](#)
+2. [大数据常用软件安装环境搭建指南](https://github.com/bigdata2018/BigData/blob/master/notes/%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 
 # 
 
