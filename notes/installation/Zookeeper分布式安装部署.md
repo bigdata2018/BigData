@@ -3,7 +3,8 @@
 <nav>
 <a href="#一、前置条件">一、前置条件</a><br/>
 <a href="#二、分布式安装部署">二、分布式安装部署</a><br/>
-<a href="#三、操作Zookeeper">三、操作Zookeeper</a><br/>
+   <a href="#三、配置修改">三、配置修改</a><br/>
+<a href="#四、操作Zookeeper">四、操作Zookeeper</a><br/>
 </nav>
 
 
